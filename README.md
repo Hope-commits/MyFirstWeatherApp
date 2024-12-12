@@ -1,2 +1,2 @@
-# MyFirstWeatherApp
+# WeatherWiseApp
 Created with CodeSandbox
